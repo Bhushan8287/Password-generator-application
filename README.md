@@ -10,7 +10,7 @@ A simple yet functional Python command-line utility to generate secure passwords
 - CLI-based interaction for ease of use
 
 ## 🛠 Tech Stack
-- **Python 3**
+- **Python **
 - `cryptography` library for encryption/decryption
 - Standard Python modules (`os`, `random`, `getpass`, etc.)
 
