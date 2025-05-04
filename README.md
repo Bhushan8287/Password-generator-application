@@ -1,5 +1,5 @@
 # 🔐 Password Generator CLI Tool
-A simple yet functional Python command-line utility to generate secure passwords, encrypt them, and store them in a text file with usage tags (e.g., service names). This tool uses symmetric encryption to allow decryption using a `.key` file and supports persistent storage for personal, low-sensitivity password management.
+A functional Python command-line utility to generate secure passwords, encrypt them, and store them in a text file with usage tags (e.g., service names). This tool uses symmetric encryption to allow decryption using a `.key` file and supports persistent storage for personal, low-sensitivity password management.
 
 ## ⚙️ Features
 - Generate random passwords of user-specified length
